@@ -1,4 +1,5 @@
 # HR Analytics Dashboard
+![HR Dashboard](HR_Analytics_1.png)
 
 ## Tools Used
 
