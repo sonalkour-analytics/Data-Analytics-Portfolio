@@ -24,4 +24,4 @@ Welcome to my Data Analytics Portfolio.
 
 ### 📫 Connect with Me
 
-- GitHub: https://github.com/sonalkour-analytics
+- GitHub: SONALKOURVISHAL@GMAIL.COM
