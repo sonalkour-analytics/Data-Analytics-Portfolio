@@ -19,7 +19,7 @@ Welcome to my Data Analytics Portfolio.
 |---------|-------|--------|
 | Uber Data Analysis | Python, Power BI | ✅ Completed |
 | HR Analytics Dashboard | Power BI | ✅ Completed |
-| Uber Dashboard | Power BI | ✅ Completed |
+| Amazon Sales Dashboard | Power BI | ✅ Completed |
 | Sales Dashboard | Excel | 🔄 Coming Soon |
 
 ### 📫 Connect with Me
